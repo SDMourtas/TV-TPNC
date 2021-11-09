@@ -3,6 +3,7 @@ In finance, the most efficient portfolio is the tangency portfolio, which is for
 The Time-Varying Tangency Portfolio under Nonlinear Constraints (TV-TPNC) problem is a time-varying nonlinear programming problem in which the nonlinear constraints refer to transaction costs and cardinality constraints. Because of this, TV-TPNC is more realistic and an even greater analysis tool suitable to evaluate investments and identify trading opportunities across a time period than the original tangency portfolio optimization problem.\
 The purpose of this package is to solve online the TV-TPNC problem by using a Semi-Integer Beetle Antennae Search (SIBAS) algorithm. The main article used is the following:
 *	V.N.Katsikis, S.D.Mourtas, V.N.Katsikis, "Diversification of Time-Varying Tangency Portfolio under Nonlinear Constraints through Semi-Integer Beetle Antennae Search Algorithm," (submitted)
+
 Also, the package includes the following two Matlab functions for comparison purposes:
 *	Yarpiz (2020). Differential Evolution (DE) (https://www.mathworks.com/matlabcentral/fileexchange/52897-differential-evolution-de), MATLAB Central File Exchange. Retrieved December 8, 2020.
 *	Slime Mould Algorithm (SMA) (https://www.mathworks.com/matlabcentral/fileexchange/76619-slime-mould-algorithm-sma-a-method-for-optimization)
