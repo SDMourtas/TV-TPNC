@@ -1,5 +1,5 @@
 function [R,C,PR]=dataprep(X,s)
-% BL expected return and covariance construction
+% function for the construction of the market, expected return and covariance
 
 [tot1,tot2]=size(X);
 R=zeros(tot1-s,tot2);
