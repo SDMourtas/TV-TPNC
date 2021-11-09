@@ -27,7 +27,7 @@ Note that these functions have been appropriately modified for the TV-TPNC probl
 
 # Installation
 *	Unzip the file you just downloaded and copy the TV-TPNC directory to a location,e.g.,/my-directory/
-*	Run Matlab/ Octave, Go to /my-directory/TV-TPNC/ at the command prompt
+*	Run Matlab/Octave, Go to /my-directory/TV-TPNC/ at the command prompt
 *	run 'Main_TVTPNC' (Matlab/Octave)
 
 # Results
