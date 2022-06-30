@@ -11,7 +11,8 @@
 %   Main paper: V.N.Katsikis, S.D.Mourtas,                          %
 %               "Diversification of Time-Varying Tangency Portfolio %
 %               under Nonlinear Constraints through Semi-Integer    %
-%               Beetle Antennae Search Algorithm", (submitted)      %                                   %
+%               Beetle Antennae Search Algorithm", AppliedMath,     %
+%               1(1), 63-73 (2021)                                  %              
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear 
